@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Born This Way",
+  "base_artist": "Lady Gaga",
+  "createdAt": "2025-12-01T11:44:31.926763Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/01_Born_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Born This Way - The Country Road Version",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/02_Born_This_Way_-_The_Country_Road_Version_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Born This Way (Country Road Version)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/03_Born_This_Way_(Country_Road_Version)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Born This Way - Jost & Naaf Remix",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/04_Born_This_Way_-_Jost_&_Naaf_Remix_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Born This Way (Jost & Naaf Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/05_Born_This_Way_(Jost_&_Naaf_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Born This Way",
+      "artist": "Karmin",
+      "has_synced": false,
+      "path": "select/06_Born_This_Way_Karmin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Born This Way (Twin Shadow Remix)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/07_Born_This_Way_(Twin_Shadow_Remix)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Born This Way",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/08_Born_This_Way_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Born This Way (Glee Cast Concert Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/09_Born_This_Way_(Glee_Cast_Concert_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Born This Way",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/10_Born_This_Way_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Born This Way (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/11_Born_This_Way_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Born This Way",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/12_Born_This_Way_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/13_Born_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/14_Born_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/15_Born_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Perform This Way (Parody of \"Born This Way\" by Lady Gaga)",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/16_Perform_This_Way_(Parody_of__Born_This_Way__by_Lady_Gaga)_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Born This Way (The Country Road Version) (Explicit)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/17_Born_This_Way_(The_Country_Road_Version)_(Explicit)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Born This Way (Live)",
+      "artist": "Thousand Foot Krutch",
+      "has_synced": true,
+      "path": "select/18_Born_This_Way_(Live)_Thousand_Foot_Krutch.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Born This Way",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/19_Born_This_Way_Lady_Gaga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Born This Way",
+      "artist": "Lady GaGa",
+      "has_synced": false,
+      "path": "select/pl_01_Born_This_Way_Lady_GaGa.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Born This Way (IS05 CMソング)",
+      "artist": "Lady GaGa",
+      "has_synced": false,
+      "path": "select/pl_02_Born_This_Way_(IS05_CMソング)_Lady_GaGa.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Born This Way (Chew Fu Born To Fix Remix)",
+      "artist": "Lady GaGa",
+      "has_synced": false,
+      "path": "select/pl_03_Born_This_Way_(Chew_Fu_Born_To_Fix_Remix)_Lady_GaGa.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Born This Way",
+      "artist": "Lady GaGa",
+      "has_synced": false,
+      "path": "select/pl_04_Born_This_Way_Lady_GaGa.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Born This Way (feat. YZERR, Vingo & Bark)",
+      "artist": "Lady GaGa",
+      "has_synced": false,
+      "path": "select/pl_05_Born_This_Way_(feat._YZERR,_Vingo_&_Bark)_Lady_GaGa.txt"
+    }
+  ]
+}
